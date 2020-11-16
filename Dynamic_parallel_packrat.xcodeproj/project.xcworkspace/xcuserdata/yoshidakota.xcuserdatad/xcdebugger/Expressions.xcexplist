@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Parsing_failure(int, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;, int&amp;):parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "for(int i = pos; i &lt;  pos + 30; i++)global::input[i]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main_thread() [inlined]:dynamic_parallel_packrat.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "global::input">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Str(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Obj(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Value(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main_thread():dynamic_parallel_packrat.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "global::input.length()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Memoize_table::allocated_range_push_back(int, int):memoize_table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Json(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Integer(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Chars(int&amp;):JSON_parser.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "global::input[pos-5]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Memoize_table::write_cell(int const&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;, int):memoize_table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Memoize_table::Memoize_table():memoize_table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Ws(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Member(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "char_match(char, int&amp;):parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Memoize_table::alloc_chunc(int):memoize_table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Memoize_table::searchFor_unallocated_range(int, int&amp;):memoize_table.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Arr(int&amp;):JSON_parser.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "global::input[pos]">
+            </PersistentString>
+            <PersistentString
+               value = "chunk_address_list[pos-1]">
+            </PersistentString>
+            <PersistentString
+               value = "chunk_address_list[i-1]">
+            </PersistentString>
+            <PersistentString
+               value = "mallocated_range">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "parse_myBlock(int):dynamic_parallel_packrat.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "local::readable_line">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "print_result():dynamic_parallel_packrat.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
